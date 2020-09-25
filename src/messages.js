@@ -123,3 +123,11 @@ export const messages = [
     profileImg: "./aaronlamprofile.jpeg",
   },
 ];
+  {
+    title: "Till next time!",
+    name: "Magneto",
+    msg: "Yo YH, thanks for the farewell lunch call! Super exciting times ahead, take care in Seattle and hopefully we cross paths again!",
+    coverImg: "./aaronlamcover.jpg",
+    profileImg: "./aaronlamprofile.jpeg",
+  },
+];
