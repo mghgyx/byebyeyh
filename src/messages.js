@@ -119,7 +119,7 @@ export const messages = [
     title: "See ya man",
     name: "Aaron",
     msg: "Dude thanks for working with me on the revamping of the interview, we changed a lot of things. Wish you the best for your next adventure!",
-    coverImg: "./aaronlamcover.jpg",
-    profileImg: "./aaronlamprofile.jpeg",
+    coverImg: "./magcover.png",
+    profileImg: "./magcover.png",
   },
 ];
